@@ -12,7 +12,7 @@ body {
 }
 
 .main {
-    background-image: url("Assets/image/bg.jpg");
+    background-image: url("assets/images/bg.jpg");
     height: 90vh;
     background-position: center center;
     position: relative;
@@ -424,3 +424,4 @@ footer {
 
 
 }
+
