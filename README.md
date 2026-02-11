@@ -1,19 +1,20 @@
-# Netflix-responsive-UI
+# 🎬 Netflix Clone
 
-This project is a responsive recreation of the 2024 Netflix homepage built using HTML5 and CSS3.
+A responsive Netflix landing page clone built using HTML and CSS.
 
-## Features
-- Responsive design (Mobile, Tablet, Desktop)
-- Flexbox-based layout structure
-- Media Queries implementation
-- Clean and organized folder structure
+## 🔗 Live Demo
+[Click Here to View Live Website](https://your-link-here)
 
-## Technologies Used
+## 📸 Screenshots
+
+### Desktop View
+![Desktop Screenshot](assets/screenshots/desktop-view.png)
+
+### Mobile View
+![Mobile Screenshot](assets/screenshots/mobile-view.png)
+
+## 🛠️ Technologies Used
 - HTML5
 - CSS3
-- Flexbox
-- Media Queries
+- Responsive Design
 
-
-## Author
-Jayesh Wakale
