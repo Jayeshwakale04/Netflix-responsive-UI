@@ -8,10 +8,10 @@ A responsive Netflix landing page clone built using HTML and CSS.
 ## 📸 Screenshots
 
 ### Desktop View
-![Desktop Screenshot](assets/screenshots/desktop-view.png)
+![Desktop Screenshot](assets/screenshots/desktop_view.png)
 
 ### Mobile View
-![Mobile Screenshot](assets/screenshots/mobile-view.png)
+![Mobile Screenshot](assets/screenshots/mobile_view.png)
 
 ## 🛠️ Technologies Used
 - HTML5
