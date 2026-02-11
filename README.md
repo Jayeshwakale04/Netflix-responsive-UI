@@ -2,8 +2,13 @@
 
 A responsive Netflix landing page clone built using HTML and CSS.
 
+## 🛠️ Technologies Used
+- HTML5
+- CSS3
+- Responsive Design
+  
 ## 🔗 Live Demo
-[Click Here to View Live Website](https://your-link-here)
+[Click Here to View Live Website]( https://jayeshwakale04.github.io/Netflix-responsive-UI/)
 
 ## 📸 Screenshots
 
@@ -13,8 +18,5 @@ A responsive Netflix landing page clone built using HTML and CSS.
 ### Mobile View
 ![Mobile Screenshot](assets/screenshots/mobile_view.png)
 
-## 🛠️ Technologies Used
-- HTML5
-- CSS3
-- Responsive Design
+
 
